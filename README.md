@@ -7,7 +7,7 @@ Projeto feito em HTML/CSS/JAVASCRIPT praticando implementações em JS
 
 
 ## Layout web
-![Web 1](https://github.com/Luiz-Hznrique/RelogioDigital/blob/main/assets/GifTeste.gif)
+![Web 1](https://github.com/Luiz-Hznrique/RelogioDigital/blob/main/assets/Relogio.png)
 
 # Tecnologias utilizadas
 ## Front end
