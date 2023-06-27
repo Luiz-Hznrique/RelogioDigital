@@ -1,4 +1,4 @@
-# PROJETO WEB IMPLEMENTADO COM JAVASCRIPT
+# PROJETO EM JAVASCRIPT
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Luiz-Hznrique/RelogioDigital/blob/master/LICENSE) 
 
 # Sobre o projeto
