@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Luiz-Hznrique/RelogioDigital/blob/master/LICENSE) 
 
 # Sobre o projeto
-Sistema de relógio que retorna ao usuário hora atual, de acordo com o Horário de Brasília (BRT – Brasília UTC-03:00)
+Sistema de relógio que retorna ao usuário hora atual, de acordo com o Horário de Brasília (BRT – Brasília UTC-03:00) <br>
 Projeto feito para pratica com implementações JS
 
 ## Layout web
