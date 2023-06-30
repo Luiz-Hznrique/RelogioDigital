@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 Sistema de relógio que retorna ao usuário hora atual, de acordo com o Horário de Brasília (BRT – Brasília UTC-03:00) <br>
-Projeto feito para pratica com implementações JS
+Projeto feito para pratica com implementações JS, incluindo modo noite nas cores do projeto. De dia cores claras e de noite cores escuras.
 
 ## Layout web
 ![Web 1](https://github.com/Luiz-Hznrique/RelogioDigital/blob/main/assets/Relogio.png)
