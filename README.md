@@ -7,6 +7,7 @@ Projeto feito para pratica com implementações JS, incluindo modo noite nas cor
 
 ## Layout web
 ![Web 1](https://github.com/Luiz-Hznrique/RelogioDigital/blob/main/assets/Relogio.png)
+![Web 1](https://github.com/Luiz-Hznrique/RelogioDigital/blob/main/assets/RelogioNoite.png)
 
 # Deploy do projeto
 link: https://meek-rugelach-185ea5.netlify.app
