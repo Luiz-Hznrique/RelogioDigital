@@ -11,8 +11,18 @@ const relogio = setInterval(function time() {
     if (hr < 10) hr = '0' + hr;
     if (min < 10) min = '0' + min;
     if (s < 10) s = '0' + s;
-
+    
+    
     horas.textContent = hr;
     minutos.textContent = min;
     segundos.textContent = s;
+    
+    if (hr > 19){
+        document.body.style.background='linear-gradient(120deg, #B7B9C4, #091447)';
+    }
+    else {
+        document.body.style.background='linear-gradient(120deg, #D68E48, #066B8A)';
+    }
 })
+
+
